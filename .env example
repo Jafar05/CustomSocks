@@ -1,0 +1,6 @@
+DB_CONNECT=postgres://postgres:12345@localhost:5432/socks
+PORT=3000
+DATABASE=
+USERNAME=
+PASSWORD=
+SECRET=RPG
